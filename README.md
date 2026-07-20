@@ -37,7 +37,7 @@ pip install scapy pandas numpy matplotlib scikit-learn
 
 **Usage:**
 ```bash
-sudo python packageanalysisanomalies.py   # raw packet capture needs elevated privileges
+sudo python packageanalysisV2Complete.py   # raw packet capture needs elevated privileges
 ```
 
 ## Notes
